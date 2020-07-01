@@ -27,7 +27,7 @@ var darthmaul = {
 var obiwan = {
   name: "Obi Wan Kenobi",
   role: "Jedi",
-  age: 100,
+  age: 30,
   forcePoints: 1000
 };
 // YOUR CODE GOES HERE
